@@ -1,0 +1,378 @@
+{
+  "main_characters": [
+    {
+      "name": "Stan Marsh",
+      "family": [
+        "Randy Marsh (father)",
+        "Sharon Marsh (mother)",
+        "Shelly Marsh (sister)",
+        "Marvin Marsh (Grandpa Marsh)",
+        "Jimbo Kern (uncle)",
+        "Ned Gerblansky (uncle's friend)"
+      ]
+    },
+    {
+      "name": "Kyle Broflovski",
+      "family": [
+        "Gerald Broflovski (father)",
+        "Sheila Broflovski (mother)",
+        "Ike Broflovski (adopted brother)",
+        "Kyle Schwartz (cousin)"
+      ]
+    },
+    {
+      "name": "Eric Cartman",
+      "family": [
+        "Liane Cartman (mother/father)",
+        "Grandma Cartman (grandmother)"
+      ]
+    },
+    {
+      "name": "Kenny McCormick",
+      "family": [
+        "Stuart McCormick (father)",
+        "Carol McCormick (mother)",
+        "Kevin McCormick (older brother)",
+        "Karen McCormick (younger sister)",
+        "Grandpa McCormick (grandfather)"
+      ]
+    }
+  ],
+  "supporting_characters_and_families": [
+    {
+      "name": "Butters Stotch",
+      "family": [
+        "Stephen Stotch (father)",
+        "Linda Stotch (mother)",
+        "Grandma Stotch (grandmother)",
+        "Bud Stotch (grandfather)",
+        "Nellie Stotch (grandmother)"
+      ]
+    },
+    {
+      "name": "Wendy Testaburger",
+      "family": [
+        "Mr. Testaburger (father)",
+        "Alexis Testaburger (mother)",
+        "Grandma Testaburger (grandmother)"
+      ]
+    },
+    {
+      "name": "Craig Tucker",
+      "family": [
+        "Thomas Tucker (father)",
+        "Laura Tucker (mother)",
+        "Tricia Tucker (sister)",
+        "Stripe (guinea pig)",
+        "Grandma Tucker (grandmother)"
+      ]
+    },
+    {
+      "name": "Tolkien Black",
+      "family": [
+        "Steve Black (father)",
+        "Linda Black (mother)"
+      ]
+    },
+    {
+      "name": "Clyde Donovan",
+      "family": [
+        "Roger Donovan (father)",
+        "Betsy Donovan (mother - deceased)"
+      ]
+    },
+    {
+      "name": "Jimmy Valmer",
+      "family": [
+        "Ryan Valmer (father)",
+        "Sarah Valmer (mother)"
+      ]
+    },
+    {
+      "name": "Timmy Burch",
+      "family": [
+        "Richard Burch (father)",
+        "Helen Burch (mother)",
+        "Gobbles (turkey)"
+      ]
+    },
+    {
+      "name": "Bebe Stevens",
+      "family": [
+        "Mr. Stevens (father)",
+        "Mrs. Stevens (mother)",
+        "Thumper (dog)"
+      ]
+    },
+    {
+      "name": "Tweek Tweak",
+      "family": [
+        "Richard Tweak (father)",
+        "Mrs. Tweak (mother)",
+        "Grandma Tweak (grandmother)",
+        "Stripe (cat)"
+      ]
+    },
+    {
+      "name": "Heidi Turner",
+      "family": [
+        "Thomas Turner (father)",
+        "Nancy Turner (mother)",
+        "Robby (dog)"
+      ]
+    },
+    {
+      "name": "Scott Malkinson",
+      "family": [
+        "Clark Malkinson (father)",
+        "Ellen Malkinson (mother)"
+      ]
+    },
+    {
+      "name": "Red McArthur",
+      "family": [
+        "Mr. McArthur (father)",
+        "Moira McArthur (mother)"
+      ]
+    },
+    {
+      "name": "Annie Knitts",
+      "family": [
+        "Mrs. Knitts (mother)"
+      ]
+    },
+    {
+      "name": "Millie Larsen",
+      "family": [
+        "Mrs. Larsen (mother)",
+        "Flora Larsen (sister)"
+      ]
+    },
+    {
+      "name": "Nichole Daniels",
+      "family": [
+        "William Daniels (father)",
+        "Mrs. Daniels (mother)"
+      ]
+    },
+    {
+      "name": "Charlotte",
+      "family": [
+        "Thomas (Charlotte's Father)",
+        "Charlotte's Mother",
+        "Charlotte's Brother",
+        "Charlotte's Sister",
+        "Charlotte's Grandmother"
+      ]
+    },
+    {
+      "name": "Mark Cotswolds",
+      "family": [
+        "Mr. Cotswolds (father)",
+        "Mrs. Cotswolds (mother)",
+        "Rebecca Cotswolds (sister)"
+      ]
+    },
+    {
+      "name": "DogPoo Petuski",
+      "family": [
+        "Mr. Petuski (father)",
+        "Mrs. Petuski (mother)"
+      ]
+    },
+    {
+      "name": "David Rodriguez",
+      "family": [
+        "Mr. Rodriguez (father)",
+        "Mrs. Rodriguez (mother)"
+      ]
+    },
+    {
+      "name": "Jason White",
+      "family": [
+        "Bob White (father)",
+        "Mrs. White (mother)",
+        "Crystal White (sister)",
+        "Alejandro (brother)",
+        "Panamanian Padengo Pequeño (brother)"
+      ]
+    },
+    {
+      "name": "Larry Zewiski",
+      "family": [
+        "Mr. Zewiski (father)",
+        "Mrs. Zewiski (mother)"
+      ]
+    },
+    {
+      "name": "Bridon Gueermo",
+      "family": [
+        "Mr. Gueermo (father)",
+        "Mrs. Gueermo (mother)"
+      ]
+    },
+    {
+      "name": "Baahir Hassan Abdul Hakeem",
+      "family": [
+        "Mr. Hakeem (father)",
+        "Mrs. Hakeem (mother)"
+      ]
+    },
+    {
+      "name": "Officer Barbrady",
+      "family": [
+        "Mrs. Barbrady (wife)",
+        "Barney (dog)"
+      ]
+    },
+    {
+      "name": "Bradley Biggle",
+      "family": [
+        "Mr. Biggle (father)",
+        "Harriet Biggle (mother)",
+        "Henrietta Biggle (sister)"
+      ]
+    },
+    {
+      "name": "Mr. Mackey",
+      "family": [
+        "Mr. Mackey Senior (father)",
+        "Mrs. Mackey Senior (mother)"
+      ]
+    },
+    {
+      "name": "PC Principal",
+      "family": [
+        "Strong Woman (partner)",
+        "River (daughter)",
+        "Emory (son)",
+        "Harper (daughter)",
+        "Bailey (son)",
+        "Riley (daughter)"
+      ]
+    },
+    {
+      "name": "Dr. Alphonse Mephesto",
+      "family": [
+        "Kevin Mephesto (son)",
+        "Terrance Mephesto (clone/creation)"
+      ]
+    },
+    {
+      "name": "Mr. Hankey",
+      "family": [
+        "Autumn Hankey (wife)",
+        "Cornwallis Hankey (son)",
+        "Amber Hankey (daughter)",
+        "Simon Hankey (son)"
+      ]
+    },
+    {
+      "name": "Mr. Garrison (Herbert Garrison)",
+      "family": [
+        "Mr. Garrison Senior (father)",
+        "Mrs. Garrison Senior (mother)"
+      ]
+    },
+    {
+      "name": "Chef (Jerome McElroy)",
+      "family": [
+        "Thomas McElroy (father)",
+        "Nellie McElroy (mother)"
+      ]
+    },
+    {
+      "name": "Scott Tenorman",
+      "family": [
+        "Jack Tenorman (father - deceased)",
+        "Mrs. Tenorman (mother - deceased)"
+      ]
+    },
+    {
+      "name": "Tuong Lu Kim",
+      "description": "Owner of City Wok; secretly Dr. William Janus, a white psychiatrist with multiple personalities.",
+      "family": [
+        "Wing Lu Kim (wife)"
+      ]
+    },
+    {
+      "name": "Wing Lu Kim",
+      "description": "Singer and wife of Tuong Lu Kim.",
+      "family": [
+        "Tuong Lu Kim (husband)"
+      ]
+    },
+    {
+      "name": "Towelie",
+      "family": []
+    },
+    {
+      "name": "Mr. Slave",
+      "family": []
+    },
+    {
+      "name": "Mayor McDaniels",
+      "family": []
+    },
+    {
+      "name": "Principal Victoria",
+      "family": []
+    },
+    {
+      "name": "Mr. Hat (puppet)",
+      "family": []
+    },
+    {
+      "name": "Pip Pirrup",
+      "family": []
+    },
+    {
+      "name": "Damien Thorn",
+      "family": []
+    },
+    {
+      "name": "Terrance and Phillip",
+      "family": []
+    },
+    {
+      "name": "Satan",
+      "family": []
+    },
+    {
+      "name": "Jesus",
+      "family": []
+    },
+    {
+      "name": "God",
+      "family": []
+    },
+    {
+      "name": "ManBearPig",
+      "family": []
+    },
+    {
+      "name": "Loogie",
+      "family": []
+    },
+    {
+      "name": "Nathan",
+      "family": []
+    },
+    {
+      "name": "Mimsy",
+      "family": []
+    },
+    {
+      "name": "The Goth Kids",
+      "members": ["Michael", "Pete", "Henrietta Biggle", "Firkle Smith"]
+    },
+    {
+      "name": "The Emo Kids",
+      "members": ["Michael (different)", "Rebecca"]
+    },
+    {
+      "name": "The Vampire Kids",
+      "members": ["Mike Makowski", "Alex Glick"]
+    }
+  ]
+}

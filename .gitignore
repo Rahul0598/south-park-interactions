@@ -1,3 +1,6 @@
+# Script Files
+south_park_scripts/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
